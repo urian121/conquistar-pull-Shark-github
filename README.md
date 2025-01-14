@@ -3,4 +3,4 @@
 conquistando pull Shark github 
 
 
-Proyecto creado para obtener el Pull Shark de Github Probando el Pull Shark
+Este proyecto creado para obtener el Pull Shark de Github Probando el Pull Shark.
